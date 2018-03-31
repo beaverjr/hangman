@@ -4,6 +4,6 @@ if age <= 10 :
 elif age <= 25 :
     print("Bye")
 else :
-    print("Big")
+    print("Big!")
 
 
